@@ -1,5 +1,5 @@
 ﻿## python 3.7.9 on 64bit windows machind
 numpy==1.19.5
 opencv-python==4.5.1.48
-Pillow==8.2.0
+Pillow==9.0.1
 pure-python-adb==0.3.0.dev0
